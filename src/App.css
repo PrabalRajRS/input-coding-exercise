@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.textinput {
+  margin-top: 30px;
+  width: 100px;
+  margin-left: 43%;
+}
+
+.suggestionContainer {
+  border: 1px solid;
+}
+
+.suggestion-item {
+  cursor: pointer;
+}
+
+.suggestion-item:hover {
+  background-color: rgb(241, 241, 241);
+}
